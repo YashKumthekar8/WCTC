@@ -1,0 +1,8 @@
+numpy
+torch
+transformers
+datasets
+librosa
+lang_trans
+jiwer
+wandb
